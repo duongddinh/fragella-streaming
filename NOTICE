@@ -1,0 +1,7 @@
+Fragella streaming player
+Copyright 2026 Cytizen Networks LLC
+Author: Duong (Jordan) Dinh
+
+This component integrates hls.js 1.7.4 by the video-dev/hls.js contributors.
+Upstream source: https://github.com/video-dev/hls.js
+The dependency retains its upstream Apache-2.0 license and attribution.

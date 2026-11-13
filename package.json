@@ -1,0 +1,7 @@
+{
+  "name": "fragella-streaming-player",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "dependencies": { "hls.js": "1.7.4" }
+}
